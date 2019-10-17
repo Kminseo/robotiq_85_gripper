@@ -1,4 +1,4 @@
-# robotiq_85_gripper
+# robotiq_85_gripper(can adapt Melodic version)
 Common packages for the Robotiq 85 Gripper provided by Stanley Innovation
 
 Defaults to 'ttyUSB0' and 115200 baud rate
